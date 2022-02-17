@@ -1,6 +1,6 @@
 # GDD-140 <!-- ADD EXERCISE/PROJECT TITLE HERE-->
 
-<!-- Github-Pages status goes here -->
+[![pages-build-deployment](https://github.com/LittleTealeaf/GDD-140-Exercise-3.1/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/LittleTealeaf/GDD-140-Exercise-3.1/actions/workflows/pages/pages-build-deployment)
 
 [**View Deployment**](https://littletealeaf.github.io/GDD-140-Exercise-3.1/)
 
